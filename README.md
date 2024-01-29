@@ -56,9 +56,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" </img> </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"</img> </a>
 </div>
 
 ###
