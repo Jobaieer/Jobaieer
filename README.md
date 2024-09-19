@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Mahmudul Hasan Jobaieer. I was born in Chattogram, Bangladesh. Now I'm studying B.Sc. in Computer Science & Engineering at International Islamic University Chattogram.</p>
+<p align="left">I'm <b>Mahmudul Hasan Jobaieer</b>. I was born in Chattogram, Bangladesh. Pursuing B.Sc. in Computer Science & Engineering at International Islamic University Chittagong.</p>
 
 ###
 
@@ -52,13 +52,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" </img> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"</img> </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /></a>
+  <img width="12" />
+  <a href="https://www.udemy.com/certificate/UC-f4d13258-da05-4c75-aa65-2868d09ddc91/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -68,7 +80,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jobaieer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobaieer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jobaieer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jobaieer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
